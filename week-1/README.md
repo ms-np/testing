@@ -57,7 +57,11 @@ The topics you should focus on during your study this week.
 
 ### JavaScript
 
-- [Prepwork Practice Problems](https://hackyourfuture.be/testing/week-1/prep)
+- [Isolate](../isolate/index.html)
+  - Reference vs. Value
+  - `for ... of` (examples)
+  - Side Effects (examples)
+  - About Testing
 - Arrays
   - [JS Tutor Video](https://www.youtube.com/watch?v=W1NTK09o-vM)
   - [Coding with Mosh](https://www.youtube.com/watch?v=oigfaZ5ApsM)
@@ -85,7 +89,7 @@ The topics you should focus on during your study this week.
 ## Lesson Plan
 
 > during Sunday class
-> - [Lesson Plan Slides](https://hackyourfuture.be/testing/week-1)
+> - [Lesson Plan Slides](./index.html)
 
 Learn some ways to use arrays:
 
@@ -97,7 +101,7 @@ Learn some ways to use arrays:
 
 ### Isolate
 
-- `for ... of`: [examples](../isolate/for-fo/examples), [exercises](../isolate/for-of/exercises)
+- `for ... of`: [examples](../isolate/for-of/examples), [exercises](../isolate/for-of/exercises)
 
 ### Integrate
 
@@ -105,7 +109,7 @@ Build a simple website that stores user input in an array.
 
 The project this week is not collaborative.  You work together in your small groups, but should not be working on the same repository.
 
-- [Week 1 in-class project](https://github.com/HackYourFutureBelgium/testing-integrate-week-2) (starter repo)
+- [Week 1 in-class project](https://github.com/HackYourFutureBelgium/testing-integrate-week-1) (starter repo)
 
 Helpful code to study:
 
@@ -131,9 +135,16 @@ Helpful code to study:
   - [So Many Loops](https://study.hackyourfuture.be/javascript/fundamentals#so-many-loops)
 - Objects
   - [javascript.info](https://javascript.info/object)
+  - [dots vs brackets](https://www.youtube.com/watch?v=7lQ31dJEYoM)
   - [dots vs brackets](https://github.com/janke-learning/dots-vs-brackets)
   - [`for in`](https://javascript.info/object#the-for-in-loop)
 - [Controlling Logical Flow](https://shawnr.gitbooks.io/practical-introduction-to-javascript/controlling-logical-flow/)
+
+#### Endless Practice
+
+- [edabit](https://edabit.com/)
+- [fuzz](https://hackyourfuture.be/fuzz)
+- [codewars](https://www.codewars.com/)
 
 > Are we missing a great resource? Send us a PR!
 
@@ -144,11 +155,11 @@ Helpful code to study:
 - [Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
   - Fork and clone this repo
   - :egg: write up 3 Codewars challenges
-  - :hatching_chick_: why stop at 3?
+  - :hatching_chick: why stop at 3?
 - [Document and Pass](https://github.com/HackYourFutureBelgium/document-and-pass/)
   - Fork and clone this repo
-  - :egg: Document and pass any 4 of the exercises
-  - :hatching_chicks: Why stop at 4?
+  - :egg: Document and pass any 3 of the exercises
+  - :hatching_chick: Why stop at 3?
 
 ---
 
@@ -166,4 +177,13 @@ Helpful code to study:
 - [ ] [A project board](https://github.com/user-name/repo-name/projects/X) with all issues moved to "Done"
 ```
 
-#### Coming Soon
+#### `array-of-numbers`
+
+> [Starter Code](https://home.hackyourfuture.be/students/weekly-assignments#projects)
+
+Collaboration!  This project should be completed in groups.  Generate a new repo for your team using [array-of-numbers](https://github.com/HackYourFutureBelgium/array-of-numbers) and have at it.  There are is no right or wrong development strategy, and there is no right or wrong user interface!  What matters is that you agree as a team, and that your plan is clearly communicated in your repository.
+
+This project contains a fully-working version of the project you are supposed to build in the folder called `/demo`.  You can interact with the demo and read the console output to help reverse-engineer the functionality, but the source code is unreadable.  It has been [obfuscated](https://en.wikipedia.org/wiki/Obfuscation_(software)) using [obfuscator.io](https://www.obfuscator.io/).
+
+:shipit:
+
